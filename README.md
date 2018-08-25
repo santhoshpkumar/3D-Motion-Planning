@@ -46,7 +46,7 @@ Simulated city environment
 
 ![Map of SF](./misc/city_map.png)
 
-Pixelated view of the map (altitue 0)
+Pixelated view of the map (altitude 0)
 
 ![Map of SF](./misc/dig_city_map.png)
 
